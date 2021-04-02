@@ -1,1 +1,2 @@
-# study_java_spring_boot_2
+# study-java-springboot2
+学习 springboot2 的个人笔记
